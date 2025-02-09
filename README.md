@@ -3,9 +3,9 @@
 ![2](https://github.com/user-attachments/assets/513b96d8-0882-4333-b7b0-5d353bacd1d6)
 
 
-# CreditLens: Credit Card Usage & Analysis Dashboard
+# SwipeSense: Credit Card Analytics Dashboard
 
-This Power BI Dashboard provides insights into credit card usage, customer spending behavior, and transaction patterns. The dashboard helps businesses understand customer segments, track key performance metrics, and make data-driven decisions.
+SwipeSense is a data-driven Power BI dashboard designed to analyze credit card usage, customer spending behavior, and transaction patterns. It helps businesses monitor key financial metrics, track high-risk accounts, and make informed decisions.
 
 ## Key Features
 
@@ -23,6 +23,7 @@ This Power BI Dashboard provides insights into credit card usage, customer spend
 - **Account Information**: Data on credit limits, balances, and account statuses.
 - **Risk Factors**: Late payments, over-limit accounts, and fraud risk indicators.
 
+
 ## Technologies Used
 
 - **Power BI**: Main tool for creating interactive visualizations and reports.
@@ -39,8 +40,8 @@ This Power BI Dashboard provides insights into credit card usage, customer spend
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/SakshamAggarwal101002/CreditLens.git
-cd credit-card-analysis-dashboard
+git clone https://github.com/architaggarwal24/SwipeSense.git
+cd SwipeSense
 ```
 
 ### Open the Dashboard
@@ -48,7 +49,7 @@ cd credit-card-analysis-dashboard
 - Open the `.pbix` file in Power BI Desktop:
   
   ```sh
-  open CreditLens.pbix
+  open SwipeSense.pbix
   ```
 
 ### Data Import
