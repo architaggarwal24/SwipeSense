@@ -1,3 +1,8 @@
+
+![1](https://github.com/user-attachments/assets/44105cd5-6140-457d-b3e1-0774adfaca51)
+![2](https://github.com/user-attachments/assets/513b96d8-0882-4333-b7b0-5d353bacd1d6)
+
+
 # CreditLens: Credit Card Usage & Analysis Dashboard
 
 This Power BI Dashboard provides insights into credit card usage, customer spending behavior, and transaction patterns. The dashboard helps businesses understand customer segments, track key performance metrics, and make data-driven decisions.
@@ -79,7 +84,3 @@ cd credit-card-analysis-dashboard
 ---
 
 Feel free to contribute or suggest improvements by submitting a pull request!
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
